@@ -44,8 +44,9 @@ Employees.findOne({ include: [Companies] }).then(employee => {
   });
 })
 
-// Exercise 3
-// *** TODO: Insert code here ***
+// Exercise 3: Find the name of the company that Peter Rabbit works for.
+
+
 
 // Exercise 4
 // *** TODO: Insert code here ***
